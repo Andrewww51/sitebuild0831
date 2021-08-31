@@ -1,0 +1,9 @@
+button {
+    color:lightgray;
+    background-color: black;
+    letter-spacing: 3px;
+    border-radius: 25px;
+    padding: 7px 20px;
+    font-size: 10px;
+
+}
