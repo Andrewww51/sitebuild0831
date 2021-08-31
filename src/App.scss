@@ -4,3 +4,10 @@
     display: flex;
     font-family: 'Kaisei Opti', serif;
 }
+
+@media screen and (max-width: 1000px) {
+
+    .App {
+        width: 800px
+    }
+  }
